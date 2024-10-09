@@ -51,7 +51,7 @@ class MainApp extends StatelessWidget {
                       'Name: Bigglesworth the 3rd',
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 24,
+                        fontSize: 12,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
@@ -69,7 +69,7 @@ class MainApp extends StatelessWidget {
                       'Age: 4',
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 24,
+                        fontSize: 12,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
@@ -87,7 +87,7 @@ class MainApp extends StatelessWidget {
                       'Gender: Male',
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 24,
+                        fontSize: 12,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
